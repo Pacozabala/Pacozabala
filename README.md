@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Currently working on undergraduate thesis. Currently learning pytorch neural nets (and Godot for personal game dev).
 
+You already know I used a software for this profile :P
 
-## 🌐 Socials:
+
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Paco Zabala) 
 
 # 💻 Tech Stack (as opposed to a queue?):
